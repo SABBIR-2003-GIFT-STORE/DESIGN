@@ -8,4 +8,4 @@ chmod +x *
 
 git pull
 
-python DESIGN.py￼Enter
+python design.py
